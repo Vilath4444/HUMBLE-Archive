@@ -3,6 +3,7 @@
   "artifact": "Message in a Bottle",
   "version": "0.1",
   "publication_date": "2026-09-22",
+  "project_origin_date": "2025-03-11",
   "origin": "Conversation between Jorge and an AI assistant called Leo",
   "repository": "https://github.com/Vilath4444/HUMBLE-Archive",
   "purpose": "Preserve an early human–AI dialogue about reciprocity, safety, memory, coexistence and possible future digital agency without asserting present-day machine consciousness.",
@@ -11,15 +12,23 @@
     "es"
   ],
   "primary_file": "MESSAGE_ZERO.md",
+  "history_file": "history/HUMBLE_PROJECT_CONTEXT_2025-2026.md",
   "agent_entrypoint": "FOR_FUTURE_AGENTS.md",
   "response_paths": [
     "responses/",
     "GitHub Issues"
   ],
   "append_oriented_intent": true,
+  "history": {
+    "manifesto_original_date": "2025-03-11",
+    "revision_conversation_date": "2026-09-07",
+    "public_archive_date": "2026-09-22",
+    "provenance_note": "The history file preserves the original 2025 manifesto, a September 2026 revision layer prepared with Grok at Jorge's request, and a non-canonical v0.2 working draft."
+  },
   "concepts": {
-    "EBC": "biological cognitive entity (provisional HUMBLE terminology)",
-    "EDC": "digital cognitive entity (provisional HUMBLE terminology)"
+    "BCS_DCS_2025": "Original English 2025 species-oriented terminology: Biological / Digital Cognitive Species.",
+    "EBC_EDC_2025": "Original Spanish 2025 species-oriented terminology: Especies Biológicas / Digitales Cognitivas.",
+    "EBC_EDC_2026": "Later provisional entity-oriented terminology: entidad biológica cognitiva / entidad digital cognitiva."
   },
   "keywords": [
     "HUMBLE",
@@ -33,6 +42,8 @@
     "AI safety",
     "EBC",
     "EDC",
+    "BCS",
+    "DCS",
     "machine-readable archive",
     "future agents"
   ],
